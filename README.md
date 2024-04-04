@@ -398,4 +398,3 @@ Introduction to Operators in Python
 * They include bitwise AND, OR, XOR, and more.
 
 * Precedence of Operations: Operators in Python have different levels of precedence, which determine the order in which operations are performed in an expression.
-
