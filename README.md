@@ -110,7 +110,9 @@ Introduction to Python, Installation, and Configuration
     * Examples of regex usage: matching emails, phone numbers, or extracting data from text.
     * re module functions include re.match(), re.search(), re.findall(), and re.sub() for pattern matching and replacement.
 
-### Keywords in Python
+
+Keywords in Python
+-------------------
 
 * Keywords are reserved words in Python that have predefined meanings and cannot be used as variable names or identifiers. These words are used to define the structure and logic of the program. They are an integral part of the Python language and are case-sensitive, which means you must use them exactly as specified.
 
@@ -181,6 +183,7 @@ my_variable = 42
 # Accessing the value of a variable
 print(my_variable)  # Output: 42
 ```
+![Preview](Images/python1.png)
 
 #### Variable Scope and Lifetime
 
@@ -195,6 +198,7 @@ def my_function():
 my_function()
 print(x)  # This will raise an error since 'x' is not defined outside the function.
 ```
+![Preview](Images/python2.png)
 
 * Global Scope: Variables defined outside of any function have global scope and can be accessed throughout the entire code.
 ```py
@@ -206,6 +210,7 @@ def another_function():
 another_function()
 print(y)  # This will print 20
 ```
+![Preview](Images/python3.png)
 
 * Variable Lifetime: The lifetime of a variable is determined by when it is created and when it is destroyed or goes out of scope. Local variables exist only while the function is being executed, while global variables exist for the entire duration of the program.
 
@@ -258,6 +263,7 @@ is_https_enabled = False
 print(f"Updated Port: {port}")
 print(f"Updated HTTPS Enabled: {is_https_enabled}")
 ```
+![Preview](Images/python4.png)
 
 * In this example, we use variables to store and manipulate configuration data for a web server. This allows us to easily update and manage the server's configuration in a DevOps context.
 
@@ -279,6 +285,7 @@ def greet(name):
 message = greet("Alice")
 print(message)
 ```
+![Preview](Images/python5.png)
 
 * In this example, greet is a function that takes a name argument and returns a greeting message.
 
@@ -398,3 +405,10 @@ Introduction to Operators in Python
 * They include bitwise AND, OR, XOR, and more.
 
 * Precedence of Operations: Operators in Python have different levels of precedence, which determine the order in which operations are performed in an expression.
+
+
+
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/float.py) for the code float.py
+![Preview](Images/python6.png)
+
