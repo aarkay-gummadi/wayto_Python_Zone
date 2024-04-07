@@ -415,18 +415,34 @@ Introduction to Operators in Python
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/int.py) for the code of int.py
 ![Preview](Images/python8.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_findall.py) for the code of regex_findall
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_findall.py) for the code of regex_findall
 ![Preview](Images/python9.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_match.py) for the code of regex_match.py
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_match.py) for the code of regex_match.py
 ![Preview](Images/python10.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_replace.py) for the code of regex_replace.py
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_replace.py) for the code of regex_replace.py
 ![Preview](Images/python11.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_search.py) for the code of regex_search.py
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_search.py) for the code of regex_search.py
 ![Preview](Images/python12.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_split.py) for the code of regex_split.py
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_split.py) for the code of regex_split.py
 ![Preview](Images/python13.png)
 
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_concat.py) for the code of string_concat.py
+![Preview](Images/python14.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_length.py) for the code of string_length.py
+![Preview](Images/python15.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_lowercase.py) for the code of string_lowercase.py
+![Preview](Images/python16.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_replace.py) for the code of string_replace.py
+![Preview](Images/python17.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_split.py) for the code of string_split.py
+![Preview](Images/python18.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_strip.py) 
