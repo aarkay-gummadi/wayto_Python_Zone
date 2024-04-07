@@ -445,4 +445,9 @@ Introduction to Operators in Python
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_split.py) for the code of string_split.py
 ![Preview](Images/python18.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_strip.py) 
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_strip.py) for the code of string_strip.py
+![Preview](Images/python20.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_substring.py) for the code of string_substring.py
+![Preview](Images/python21.png)
+

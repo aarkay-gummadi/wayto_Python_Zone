@@ -5,15 +5,14 @@ Dictionaries
 * It is also known as a hashmap or associative array in other programming languages. 
 * Dictionaries are implemented as hash tables, providing fast access to values based on their keys.
 
-### Creating a Dictionary:
 ```py
+# Creating a Dictionary:
 my_dict = {'name': 'John', 'age': 25, 'city': 'New York'}
-```
 
-### Accessing Values:
-```py
+# Accessing Values:
 print(my_dict['name'])  # Output: John
 ```
+![Preview](Images/python1.png)
 
 ### Modifying and Adding Elements:
 ```py
