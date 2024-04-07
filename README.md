@@ -406,9 +406,27 @@ Introduction to Operators in Python
 
 * Precedence of Operations: Operators in Python have different levels of precedence, which determine the order in which operations are performed in an expression.
 
-
-
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/hello_world.py) for the basic hello-world code.
+![Preview](Images/python7.png)
 
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/float.py) for the code float.py
 ![Preview](Images/python6.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/int.py) for the code of int.py
+![Preview](Images/python8.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_findall.py) for the code of regex_findall
+![Preview](Images/python9.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_match.py) for the code of regex_match.py
+![Preview](Images/python10.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_replace.py) for the code of regex_replace.py
+![Preview](Images/python11.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_search.py) for the code of regex_search.py
+![Preview](Images/python12.png)
+
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/regex_split.py) for the code of regex_split.py
+![Preview](Images/python13.png)
 
