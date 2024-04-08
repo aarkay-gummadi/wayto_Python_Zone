@@ -25,4 +25,8 @@ status = get_server_status(server_name)
 print(f"{server_name} status: {status}")
 ```
 
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Dictionaries%20and%20Sets/practicals.py) for the code of practicals.py
+![Preview](Images/python2.png)
+ 
+ 
 * In this example, the function `get_server_status` optimizes the retrieval of the server status by using the `get` method and providing a default value if the server name is not found.
