@@ -22,6 +22,7 @@ my_list = [1, 2, 3]
 my_list[0] = 0  # Modifying an element in the list
 print(my_list)  # Output: [0, 2, 3]
 ```
+![Preview](Images/python1.png)
 
 * Immutable objects like tuples cannot be altered:
 ```py
@@ -29,6 +30,7 @@ my_tuple = (1, 2, 3)
 # Attempting to change a tuple will result in an error
 # my_tuple[0] = 0
 ```
+![Preview](Images/python2.png)
 
 ### Differentiate between list and tuple in Python.
 * Lists are mutable and typically used for storing collections of items that can be changed, while tuples are immutable and commonly used to store collections of items that shouldn't change. Examples:
@@ -39,6 +41,7 @@ my_list = [1, 2, 3]
 my_list.append(4)  # Modifying by adding an element
 print(my_list)  # Output: [1, 2, 3, 4]
 ```
+![Preview](Images/python3.png)
 
 * Tuple:
 ```py
@@ -85,6 +88,7 @@ def say_hello():
 
 say_hello()
 ```
+![Preview](Images/python4.png)
 
 ### How does exception handling work in Python?
 * Exception handling in Python uses try, except, else, and finally blocks. Example:
@@ -100,6 +104,7 @@ else:
 finally:
     print("Execution completed.")
 ```
+![Preview](Images/python5.png)
 
 ### What's the difference between append() and extend() for lists?
 * append() adds a single element to the end of a list, while extend() adds multiple elements by appending elements from an iterable. * Example:
@@ -110,6 +115,7 @@ my_list = [1, 2, 3]
 my_list.append(4)
 print(my_list)  # Output: [1, 2, 3, 4]
 ```
+![Preview](Images/python6.png)
 
 * Using extend():
 ```py
@@ -117,6 +123,7 @@ my_list = [1, 2, 3]
 my_list.extend([4, 5])
 print(my_list)  # Output: [1, 2, 3, 4, 5]
 ```
+![Preview](Images/python7.png)
 
 ### Explain the use of lambda functions in Python.
 * Lambda functions are anonymous functions used for short tasks. Example:
@@ -126,6 +133,7 @@ print(my_list)  # Output: [1, 2, 3, 4, 5]
 square = lambda x: x**2
 print(square(5))  # Output: 25
 ```
+![Preview](Images/python8.png)
 
 ### What are the different types of loops in Python?
 * Python has for loops and while loops.
@@ -137,6 +145,7 @@ print(square(5))  # Output: 25
 for i in range(5):
     print(i)
 ```
+![Preview](Images/python9.png)
 
 * Using while loop:
 ```py
@@ -145,6 +154,7 @@ while i < 5:
     print(i)
     i += 1
 ```
+![Preview](Images/python10.png)
 
 ### Explain the difference between == and is operators.
 * The == operator compares the values of two objects, while the is operator checks if two variables point to the same object in memory.
@@ -157,6 +167,7 @@ a = [1, 2, 3]
 b = [1, 2, 3]
 print(a == b)  # Output: True (because values are equal)
 ```
+![Preview](Images/python11.png)
 
 * Using is:
 ```py
@@ -164,6 +175,7 @@ a = [1, 2, 3]
 b = a
 print(a is b)  # Output: True (because they reference the same object)
 ```
+![Preview](Images/python12.png)
 
 ### What is the use of the pass keyword?
 * The pass keyword is a no-operation placeholder used when a statement is syntactically needed but no action is required. Example:
@@ -186,6 +198,7 @@ def my_function():
 
 my_function()  # Output: 10
 ```
+![Previeww](Images/python13.png)
 
 * Using a local variable:
 ```py
@@ -196,6 +209,7 @@ def my_function():
 my_function()  # Output: 5
 # Attempting to access local_var outside the function will result in an error
 ```
+![Preview](Images/python14.png)
 
 ### Explain the difference between open() and with open() statement.
 * open() is a built-in function used to open a file and return a file object. 
@@ -208,6 +222,7 @@ file = open('example.txt', 'r')
 content = file.read()
 file.close()
 ```
+![Preview](Images/python15.png)
 
 * Using with open():
 ```py
@@ -215,3 +230,4 @@ with open('example.txt', 'r') as file:
     content = file.read()
 # File is automatically closed when the block exits
 ```
+![Preview](Images/python16.png)

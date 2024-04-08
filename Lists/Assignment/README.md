@@ -24,7 +24,9 @@ servers = ['web-server-01', 'db-server-01', 'app-server-01']
 ```py
 servers = ['web-server-01', 'db-server-01', 'app-server-01']
 first_server = servers[0]
+print(first_server)
 ```
+![Preview](../Images/lists1.png)
 
 ### How do you add an element to the end of a list in Python? Provide a DevOps example.
 * You can add an element to the end of a list using the append() method. 
@@ -32,7 +34,9 @@ first_server = servers[0]
 ```py
 servers = ['web-server-01', 'db-server-01']
 servers.append('app-server-01')
+print(servers)
 ```
+![Preview](../Images/lists2.png)
 
 ### How can you remove an element from a list in Python, and can you provide a DevOps use case?
 * You can remove an element from a list using the remove() method. 
@@ -40,4 +44,6 @@ servers.append('app-server-01')
 ```py
 servers = ['web-server-01', 'db-server-01', 'app-server-01']
 servers.remove('db-server-01')
+print(servers)
 ```
+![Preview](../Images/lists3.png)
