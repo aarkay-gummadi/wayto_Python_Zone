@@ -407,47 +407,75 @@ Introduction to Operators in Python
 * Precedence of Operations: Operators in Python have different levels of precedence, which determine the order in which operations are performed in an expression.
 
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/hello_world.py) for the basic hello-world code.
+
 ![Preview](Images/python7.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/float.py) for the code float.py
+
 ![Preview](Images/python6.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/python%20codes/int.py) for the code of int.py
+
 ![Preview](Images/python8.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_findall.py) for the code of regex_findall
+
 ![Preview](Images/python9.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_match.py) for the code of regex_match.py
+
 ![Preview](Images/python10.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_replace.py) for the code of regex_replace.py
+
 ![Preview](Images/python11.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_search.py) for the code of regex_search.py
+
 ![Preview](Images/python12.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Regex_codes/regex_split.py) for the code of regex_split.py
+
 ![Preview](Images/python13.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_concat.py) for the code of string_concat.py
+
 ![Preview](Images/python14.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_length.py) for the code of string_length.py
+
 ![Preview](Images/python15.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_lowercase.py) for the code of string_lowercase.py
+
 ![Preview](Images/python16.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_replace.py) for the code of string_replace.py
+
 ![Preview](Images/python17.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_split.py) for the code of string_split.py
+
 ![Preview](Images/python18.png)
 
+
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_strip.py) for the code of string_strip.py
+
 ![Preview](Images/python20.png)
 
-* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_substring.py) for the code of string_substring.py
-![Preview](Images/python21.png)
 
+* [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/String_codes/string_substring.py) for the code of string_substring.py
+
+![Preview](Images/python21.png)
