@@ -66,4 +66,3 @@ print(f"{server_name} status: {status}")
 
 * [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Dictionaries%20and%20Sets/demo-github-integration.py) for the code of github-integration.py
 ![Preview](Images/python7.png)
-
