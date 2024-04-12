@@ -1,3 +1,5 @@
+![Preview](Images/python1.png)
+
 Output (Printing)
 -------------------
 

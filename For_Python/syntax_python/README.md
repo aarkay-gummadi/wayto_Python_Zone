@@ -1,6 +1,10 @@
 Syntax of Python
 ----------------
-* Certainly! Let’s explore the syntax of Python. Python is known for its readability and straightforward syntax. Here are some essential aspects:
+* Certainly! Let’s explore the syntax of Python. 
+* Python is known for its readability and straightforward syntax. Here are some essential aspects:
+
+![Preview](Images/syntax1.png)
+
 * Indentation:
     * Python uses indentation to indicate code blocks (such as loops, conditionals, and functions).
     * Unlike other languages where indentation is for readability only, in Python, it is critical for defining the structure.
@@ -30,7 +34,7 @@ Syntax of Python
     ```
 
 * Running Python Code:
-    *     You can execute Python code directly in the Command Line:
+    * You can execute Python code directly in the Command Line:
     ```
     print("Hello, World!")
     ```
