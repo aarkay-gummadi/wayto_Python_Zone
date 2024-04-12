@@ -5,7 +5,7 @@ Advantages of Python
 
 ### Easy to Read and Learn
 * Python's high-level syntax is simple and resembles English.
-* It doesn't require semicolons or brances, making it beginner-friendly.
+* It doesn't require semicolons or branches, making it beginner-friendly.
 * Maintenance costs are low due to its readability.
 
 ### Dynamic Typing
