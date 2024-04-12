@@ -6,7 +6,7 @@ Python
 ![Preview](Images/python1.png)
 
 ### What is Python?
-* ython is a versatile programming language widely used in the software industry.
+* Python is a versatile programming language widely used in the software industry.
 * Its easiest syntax makes it an excellent choice for beginners entering the field of software engineering.
 * Key properties: 
     * Interpreted: Python code is executed line by line, making it easy to debug and modify.
