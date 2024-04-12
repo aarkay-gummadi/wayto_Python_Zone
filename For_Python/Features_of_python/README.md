@@ -2,6 +2,9 @@ Features of Python
 ------------------
 * Certainly! Let’s explore the features of Python, a versatile and widely-used programming language:
 
+![Preview](Images/Features%20of%20Python.png)
+![Preview](Images/features%20fo%20python.png)
+
 ### Free and Open Source
 * Python is freely available on the official website.
 * Being open-source means that its source code is accessible to the public, allowing you to download, use, and share it.

@@ -3,6 +3,8 @@ Python
 
 * Python is a high-level, interpreted, and object-oriented programming language. Let’s explore its key aspects:
 
+![Preview](Images/python1.png)
+
 ### What is Python?
 * ython is a versatile programming language widely used in the software industry.
 * Its easiest syntax makes it an excellent choice for beginners entering the field of software engineering.
