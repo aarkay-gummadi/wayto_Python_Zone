@@ -35,7 +35,7 @@ Input (User Interaction)
 
 ### Using input() Function
 * Accept input from the user.
-*Example:
+* Example:
 ```py
 name = input("Enter your name: ")
 print(f"Hello, {name}!")
