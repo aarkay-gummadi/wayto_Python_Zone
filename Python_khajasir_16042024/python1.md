@@ -116,6 +116,9 @@ until number not equals 0 try below steps
 end until
 say sum
 ```
+* For the code [Refer Here](https://github.com/aarkay-gummadi/wayto_Python_Zone/blob/main/Python_khajasir_16042024/code.py)
+
+![Preview](Images/python1.png)
 
 ### References
 * Project Euler [Refer Here](https://projecteuler.net/archives)
